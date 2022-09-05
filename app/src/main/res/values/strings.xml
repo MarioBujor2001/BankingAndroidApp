@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="hello_to_bank">Hello and welcome to the bank !</string>
+    <string name="your_options">Your options are:</string>
+    <string name="deposit">Deposit</string>
+    <string name="transfer">Transfer</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="log_out">Log Out</string>
+    <string name="insert_sum">Please insert sum:</string>
+    <string name="withdraw_sum">Please insert withdraw sum:</string>
+    <string name="transfer_sum">Please insert transfer sum:</string>
+    <string name="submit">Submit</string>
+    <string name="input_sum">Input sum</string>
+    <string name="input_iban_transfer">Input transfer iban</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_iban">Contact Iban</string>
+    <string name="add_quick_contact">Add quick contact</string>
+</resources>
